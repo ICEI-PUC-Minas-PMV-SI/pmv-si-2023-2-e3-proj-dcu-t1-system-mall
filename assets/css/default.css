@@ -1,0 +1,15 @@
+:root {
+    /* cores do tema */
+    --cor-primaria: #1fff93;
+    --cor-segundaria: #015640 ;
+	--cor-terciaria: #d2d2d2 !important;
+
+        /* cores do fundo do site */
+
+	--cor-fundo: #1d2b44;
+	--cor-fundo-auxiliar: #2e446b !important;
+
+    /* Cores dos textos e titulos */
+    --cor-titulo: #000;
+    --cor-titulos-textos: #000;
+}
